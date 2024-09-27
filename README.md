@@ -1,5 +1,3 @@
----
-
 # 🎯 **Survival Shooter Game** - *Version 0.0.1*
 
 > **แนวเกม:** Top-down shooter + Roguelike  
